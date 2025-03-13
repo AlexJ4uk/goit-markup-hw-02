@@ -82,20 +82,18 @@ color: #fff;
     background: #404bbf;
 }
 
-.goals-list {
-        letter-spacing: 0.02em;
-}
-
 .goals-subtitle {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
+        letter-spacing: 0.02em;
         color: #2e2f42;
 }
 
 .goals-text {
         font-size: 16px;
         line-height: 1.5;
+        letter-spacing: 0.02em;
 }
 
 .team {
