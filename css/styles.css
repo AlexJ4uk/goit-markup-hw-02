@@ -66,6 +66,7 @@ color: #fff;
         font-size: 56px;
         line-height: 1.07;
         letter-spacing: 0.02em;
+        text-align: center;
 }
 
 .hero-title-btn {
@@ -75,6 +76,7 @@ color: #fff;
         letter-spacing: 0.04em;
         color: #fff;
         background: #4d5ae5;
+        cursor: pointer;
 }
 
 .hero-title-btn:hover,
@@ -118,6 +120,8 @@ color: #fff;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        text-align: center;
+        text-transform: capitalize;
 }
 
 .team-text {
@@ -132,6 +136,8 @@ color: #fff;
         line-height: 1.11;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        text-align: center;
+        text-transform: capitalize;
 }
 
 .portfolio-subtitle {
